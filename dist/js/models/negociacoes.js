@@ -10,4 +10,3 @@ export class Negociacoes {
     }
 }
 const negociacoes = new Negociacoes();
-// negociacoes.adiciona(new Negociacao());
